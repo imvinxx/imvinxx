@@ -5,10 +5,12 @@ I'm a **pre-final year student** at *Heritage Institute of Technology, Kolkata (
 
 **💡 Skills & Technologies:**  
 - Programming: **C/C++, Python, R**
-- **SQL**
 - **Data Structures & Algorithms (DSA)**  
 - **Cybersecurity & Ethical Hacking**  
-- **Power BI & Excel** for data analytics  
+- **Power BI & Excel** for data analytics
+- **SQL**
+- **Database Management System (DBMS)**
+- **Computer Networking** 
 - **Great at Problem-Solving**  
 
 **🔭 Current Interests:**  
