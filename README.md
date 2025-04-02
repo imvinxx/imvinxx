@@ -7,7 +7,7 @@ I'm a **pre-final year student** at *Heritage Institute of Technology, Kolkata (
 - Programming: **C/C++, Python, R**
 - **Data Structures & Algorithms (DSA)**  
 - **Cybersecurity & Ethical Hacking**  
-- **Power BI & Excel** for data analytics
+- **Power BI, Advanced Excel & Python/R** for data analytics
 - **SQL**
 - **Database Management System (DBMS)**
 - **Computer Networking** 
