@@ -21,7 +21,7 @@ I'm a **pre-final year student** at *Heritage Institute of Technology, Kolkata (
 **📫 Let's Connect!**  
 - **GitHub:** https://github.com/imvinxx
 - **LinkedIn:** https://www.linkedin.com/in/vinay-kumar-548b6a257/  
-- **Email:** vinay031official@gmail.com  
+- **Email:** vinaykumar031vk@gmail.com
 
 Let's build something awesome together! 🚀
 
