@@ -1,27 +1,106 @@
-### Hi there, I'm Vinay Kumar! 👋  
+# Hi there, I'm Vinay Kumar! 👋
 
-**🚀 About Me:**  
-I'm a **final year student** at *Heritage Institute of Technology, Kolkata (HITK)*, specializing in **Electronics & Instrumentation**. I'm passionate about **coding, cybersecurity, and data analytics**. A strong team player, always eager to learn and explore new technologies!  
+**Final Year Student | Heritage Institute of Technology, Kolkata (HITK)**  
+*Applied Electronics & Instrumentation | Coding 🚀 | Cybersecurity | Data Analytics*
 
-**💡 Skills & Technologies:**  
-- Programming: **C/C++, Python, R**
-- **Data Structures & Algorithms (DSA)**  
-- **Cybersecurity & Ethical Hacking**  
-- **Power BI, Advanced Excel & Python/R** for data analytics
-- **SQL**
-- **Database Management System (DBMS)**
-- **Computer Networking** 
-- **Great at Problem-Solving**  
+---
 
-**🔭 Current Interests:**  
-- Exploring **cybersecurity threats & ethical hacking techniques**  
-- Enhancing my **data analytics & visualization** skills  
-- Contributing to **open-source projects**  
+## 🚀 About Me
 
-**📫 Let's Connect!**  
-- **GitHub:** https://github.com/imvinxx
-- **LinkedIn:** https://www.linkedin.com/in/vinay-kumar-548b6a257/  
-- **Email:** vinaykumar031vk@gmail.com
+I'm a **final-year engineering student** with a passion for **coding, cybersecurity, and data analytics**. My work combines a strong foundation in software engineering and cybersecurity with hands-on experience in real-world projects and internships. I thrive on exploring new technologies, building impactful solutions, and contributing to open-source.
 
-Let's build something awesome together! 🚀
+- ⭐ Strong team player, fast learner, and great problem solver  
+- 🛡️ Driven by curiosity about security threats and ethical hacking  
+- 📈 Excited about data analytics, visualization, and automation
+
+---
+
+## 💡 Skills & Technologies
+
+- **Programming:** C/C++, Python, R, SQL
+- **Core Skills:** Data Structures & Algorithms (DSA), DBMS, Computer Networks
+- **Cybersecurity:** Ethical Hacking, Threat Analysis, Steganography, IAM
+- **Data Analytics:** Power BI, Advanced Excel, Python/R, data visualization
+- **Tools:** Linux/Kali Linux, VS Code, Streamlit, Tkinter, MS Office
+- **Other:** Problem-Solving, Teamwork, Time Management, Adaptability
+
+---
+
+## 🔭 Current Interests
+
+- Exploring new cybersecurity threats & enhancing ethical hacking expertise
+- Expanding my analytics/ML skills for data-driven decision making
+- Building robust, user-centric software and open-source projects
+
+---
+
+## 🛠️ Featured Projects
+
+- [**Steganography Project Using Python**](https://github.com/imvinxx/Steganography-Project-Using-Python):  
+  Hide secret messages in images with a secure, user-friendly Tkinter GUI.
+
+- [**AI-Powered Resume Screening & Ranking System**](https://github.com/imvinxx/AI-Powered_Resume_Screening_and_Ranking_System):  
+  Automates resume parsing and ranks candidates using NLP, ML, and Streamlit UI.
+
+- [**Stock Market Trend Analysis & Prediction**](https://github.com/imvinxx/Stock-Market-Trend-Analysis-and-Prediction):  
+  Leverages Python & ML to uncover trends and make predictions with insightful visualizations.
+
+- [**Phishing Detection Tool with NLP**](https://github.com/imvinxx/Phishing-Detection-Tool-with-NLP):  
+  [In progress] Detects phishing using ML/NLP (tokenization, TF-IDF, lemmatization).
+
+- [**Amazon Sales Dashboard**](https://github.com/imvinxx/Amazon-Sales-Dashboard):  
+  Power BI dashboard for analytics on sales, profit, and trends.
+
+---
+
+## 💼 Internships & Experience
+
+- **Cyber Security Intern** — Edunet Foundation & IBM SkillsBuild  
+  Developed Python steganography tool with a secure GUI for encryption/decryption.
+
+- **AI Intern, Resume Automation** — Edunet Foundation & TechSaksham (Microsoft & SAP)  
+  Automated PDF resume parsing and candidate ranking, with real-time CSV export.
+
+- **Cybersecurity Analyst Simulation** — Forage & Tata Consultancy Services  
+  Gained expertise in IAM and cybersecurity best practices in simulated work environments.
+
+- **Mastercard Security Awareness (Virtual Experience)** — Forage  
+  Identified, reported, and trained on security threats (phishing, social engineering).
+
+---
+
+## 🎓 Education
+
+**B.Tech, Applied Electronics & Instrumentation Engineering**  
+Heritage Institute of Technology, Kolkata  
+CGPA: 7.77 / 10 (consistently 8+ in recent semesters)
+
+---
+
+## 📜 Certifications
+
+- Ethical Hacking (NPTEL, Top 5% Elite)
+- Computer Networks & Internet Protocol (NPTEL)
+- Geodata Processing Using Python & ML (ISRO)
+- Software Engineer Intern & SQL Advanced (HackerRank)
+
+---
+
+## 🏆 Achievements
+
+- Top 5% in NPTEL Ethical Hacking (90%)
+- Selected for special ethical hacking internship at IIT Ropar (NPTEL)
+- Strong public presentation and documentation of security projects
+
+---
+
+## 🌐 Let's Connect!
+
+- **GitHub:** [imvinxx](https://github.com/imvinxx)
+- **LinkedIn:** [vinay-kumar-548b6a257](https://www.linkedin.com/in/vinay-kumar-548b6a257/)
+- **Email:** [vinaykumar031vk@gmail.com](mailto:vinaykumar031vk@gmail.com)
+
+---
+
+*Let's build something awesome together! 🚀*
 
