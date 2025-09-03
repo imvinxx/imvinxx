@@ -1,7 +1,7 @@
 # Hi there, I'm Vinay Kumar! 👋
 
 **Final Year Student | Heritage Institute of Technology, Kolkata (HITK)**  
-*Applied Electronics & Instrumentation | Coding | Cybersecurity | Data Analytics*
+*Applied Electronics & Instrumentation | DSA | Coding | Cybersecurity | Data Analytics*
 
 ---
 
