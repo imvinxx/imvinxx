@@ -1,7 +1,7 @@
 # Hi there, I'm Vinay Kumar! 👋
 
 **Final Year Student | Heritage Institute of Technology, Kolkata (HITK)**  
-*Applied Electronics & Instrumentation | Coding 🚀 | Cybersecurity | Data Analytics*
+*Applied Electronics & Instrumentation | Coding | Cybersecurity | Data Analytics*
 
 ---
 
@@ -17,10 +17,10 @@ I'm a **final-year engineering student** with a passion for **coding, cybersecur
 
 ## 💡 Skills & Technologies
 
-- **Programming:** C/C++, Python, R, SQL
+- **Programming:** C/C++, Python, SQL
 - **Core Skills:** Data Structures & Algorithms (DSA), DBMS, Computer Networks
 - **Cybersecurity:** Ethical Hacking, Threat Analysis, Steganography, IAM
-- **Data Analytics:** Power BI, Advanced Excel, Python/R, data visualization
+- **Data Analytics:** Power BI, Advanced Excel, Python, data visualization
 - **Tools:** Linux/Kali Linux, VS Code, Streamlit, Tkinter, MS Office
 - **Other:** Problem-Solving, Teamwork, Time Management, Adaptability
 
@@ -69,35 +69,10 @@ I'm a **final-year engineering student** with a passion for **coding, cybersecur
 
 ---
 
-## 🎓 Education
-
-**B.Tech, Applied Electronics & Instrumentation Engineering**  
-Heritage Institute of Technology, Kolkata  
-CGPA: 7.77 / 10 (consistently 8+ in recent semesters)
-
----
-
-## 📜 Certifications
-
-- Ethical Hacking (NPTEL, Top 5% Elite)
-- Computer Networks & Internet Protocol (NPTEL)
-- Geodata Processing Using Python & ML (ISRO)
-- Software Engineer Intern & SQL Advanced (HackerRank)
-
----
-
-## 🏆 Achievements
-
-- Top 5% in NPTEL Ethical Hacking (90%)
-- Selected for special ethical hacking internship at IIT Ropar (NPTEL)
-- Strong public presentation and documentation of security projects
-
----
-
 ## 🌐 Let's Connect!
 
-- **GitHub:** [imvinxx](https://github.com/imvinxx)
-- **LinkedIn:** [vinay-kumar-548b6a257](https://www.linkedin.com/in/vinay-kumar-548b6a257/)
+- **GitHub:** [Vinay Kumar](https://github.com/imvinxx)
+- **LinkedIn:** [Vinay Kumar](https://www.linkedin.com/in/vinay-kumar-548b6a257/)
 - **Email:** [vinaykumar031vk@gmail.com](mailto:vinaykumar031vk@gmail.com)
 
 ---
