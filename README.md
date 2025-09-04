@@ -42,9 +42,9 @@ I'm a **final-year engineering student** with a passion for **coding, cybersecur
 - [**AI-Powered Resume Screening & Ranking System**](https://github.com/imvinxx/AI-Powered_Resume_Screening_and_Ranking_System):  
   Automates resume parsing and ranks candidates using NLP, ML, and Streamlit UI.
 
-- [**Stock Market Trend Analysis & Prediction**](https://github.com/imvinxx/Stock-Market-Trend-Analysis-and-Prediction):  
-  Leverages Python & ML to uncover trends and make predictions with insightful visualizations.
-
+- [**Stock Market Performance Dashboard & Risk_Analysis**](https://github.com/imvinxx/Stock_Market_Performance_Dashboard_and_Risk_Analysis.git):  
+  A refreshable dashboard for analyzing and visualizing price trends, risk metrics (volatility, Sharpe), and correlations for major Indian listed stocks using Power BI and Python (Google Colab).
+  
 - [**Phishing Detection Tool with NLP**](https://github.com/imvinxx/Phishing-Detection-Tool-with-NLP):  
   [In progress] Detects phishing using ML/NLP (tokenization, TF-IDF, lemmatization).
 
