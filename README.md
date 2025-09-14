@@ -44,6 +44,9 @@ I'm a **final-year engineering student** with a passion for **coding, cybersecur
 
 - [**Stock Market Performance Dashboard & Risk_Analysis**](https://github.com/imvinxx/Stock_Market_Performance_Dashboard_and_Risk_Analysis.git):  
   A refreshable dashboard for analyzing and visualizing price trends, risk metrics (volatility, Sharpe), and correlations for major Indian listed stocks using Power BI and Python (Google Colab).
+
+- [**Stock Market Trend Analysis & Predictive Insights**](https://github.com/imvinxx/Stock_Market_Trend_Analysis_and_Predictive_Insights.git):  
+  Analyze historical trends and predict future price movements of top Indian stock market companies using Python, statistical analysis, machine learning, and rich visualizations.
   
 - [**Phishing Detection Tool with NLP**](https://github.com/imvinxx/Phishing-Detection-Tool-with-NLP):  
   [In progress] Detects phishing using ML/NLP (tokenization, TF-IDF, lemmatization).
